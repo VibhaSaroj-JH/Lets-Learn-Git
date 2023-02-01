@@ -3,7 +3,7 @@ public class Diff{
         int v= 14;
         int p= 31;
 
-        System.out.println(v-p);
+        System.out.println("diff is: "+(v-p));
 
     }
 }
