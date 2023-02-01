@@ -3,7 +3,7 @@ public class Sum{
         int v= 14;
         int p= 31;
 
-        System.out.println(v+p);
+        System.out.println("sum of two no: " + (v+p));
 
     }
 }
